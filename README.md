@@ -1,7 +1,11 @@
 # blinktOfficeNotifier
 Pi powered Home Office notification application with Pimoroni Blinkt
 
-Make an Office notification system using a Pi Zero W and a Pimoroni Blinkt LED strip. 
+Make an Office notification system using a Pi Zero W and a Pimoroni Blinkt LED strip.
+* This app has a web interface where y ou can connect to the Pi from your phone/tablet/computer on the same network
+  ![App Page](https://github.com/jpgrillot/blinktOfficeNotifier/blob/main/WebPage.jpg)
+* Selecting a button will set the LEDs to the same color
+  ![Illuminated](https://github.com/jpgrillot/blinktOfficeNotifier/blob/main/VideoConf.jpg)
 
 ## Installing
 This install was meant for a Pi Zero W on Raspian with no desktop environment. This assumes that the Pi already has the OS installed and configured. Git, Python3, and Python3-Pip should be installed.
