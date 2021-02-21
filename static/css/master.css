@@ -1,0 +1,61 @@
+body {
+    background: black;
+    color: white;
+ }
+ 
+ .obutton {
+    font: bold 64px Arial;
+    text-decoration: none;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 8px 8px 8px 8px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+ }
+ .vbutton {
+    font: bold 64px Arial;
+    text-decoration: none;
+    background-color: #FF0000;
+    color: #000000;
+    padding: 8px 8px 8px 8px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+ }
+ .mbutton {
+    font: bold 64px Arial;
+    text-decoration: none;
+    background-color: #FFFF00;
+    color: #000000;
+    padding: 8px 8px 8px 8px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+ }
+ .wbutton {
+    font: bold 64px Arial;
+    text-decoration: none;
+    background-color: #00FF00;
+    color: #000000;
+    padding: 8px 8px 8px 8px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+ }
+ .dbutton {
+    font: bold 64px Arial;
+    text-decoration: none;
+    background-color: #0000FF;
+    color: #FFFFFF;
+    padding: 8px 8px 8px 8px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+ }
+ 
